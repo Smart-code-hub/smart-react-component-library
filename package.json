@@ -1,0 +1,26 @@
+{
+  "name": "smart-react-component-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartcodehubnext/smart-react-component-library.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smartcodehubnext/smart-react-component-library/issues"
+  },
+  "homepage": "https://github.com/smartcodehubnext/smart-react-component-library#readme",
+  "dependencies": {
+    "prettier": "^1.19.1",
+    "voca": "^1.4.0"
+  },
+  "devDependencies": {
+    "mocha": "^7.0.1"
+  }
+}
